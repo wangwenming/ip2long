@@ -12,7 +12,7 @@
     "url": "git://github.com/wangwenming/ip2long.git"
   },
   "devDependencies": {
-    "mocha": "1.9.x",
-    "chai": "1.6.x"
+    "mocha": "2.1.x",
+    "chai": "1.10.x"
   }
 }
