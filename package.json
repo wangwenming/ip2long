@@ -1,0 +1,18 @@
+{
+  "name": "ip2long",
+  "version": "0.0.1",
+  "description": "ip2long and long2ip, only support IPv4",
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Wenming Wang",
+    "email": "wangwenming1985@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wangwenming/ip2long.git"
+  },
+  "devDependencies": {
+    "mocha": "1.9.x",
+    "chai": "1.6.x"
+  }
+}
