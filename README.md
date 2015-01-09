@@ -10,3 +10,5 @@ ip2long('127.0.0.1'); // 2130706433
 long2ip(2130706433);  // 127.0.0.1
 ```
 
+[![Build Status](https://travis-ci.org/wangwenming/ip2long.svg)](https://travis-ci.org/wangwenming/ip2long)
+
